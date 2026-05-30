@@ -1,7 +1,7 @@
-<h1 align="center">About Ali Automations</h1>
+<h1 align="center">About Us</h1>
 
 <p align="center">
-We are a network of experienced developers and digital solution experts dedicated to helping businesses build powerful, scalable, and modern digital experiences.  
+We are a team of experienced developers and digital solution experts dedicated to helping businesses build powerful, scalable, and modern digital experiences.  
 From custom websites and web applications to AI-integrated platforms and business systems, we create high-performance solutions that strengthen digital presence, improve user experience, and support long-term growth.
 </p>
 
@@ -58,11 +58,19 @@ From custom websites and web applications to AI-integrated platforms and busines
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+
+  <a href="https://www.linkedin.com/in/ali-automations-inc" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:aliautomations.inc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
+  </a>
+
+  <a href="https://www.instagram.com/aliautomations.inc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+  </a>
+
 </div>
 
 ###
