@@ -1,28 +1,54 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo" />
+  <img width="12" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="scikit learn logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo" />
+  <img width="12" />
+
+  <img src="https://n8n.io/favicon.ico" height="60" alt="n8n logo" />
+  <img width="12" />
+
 </div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ali-automations-inc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 ###
 
@@ -37,16 +63,18 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ali-automations-inc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+
+  <img src="https://img.shields.io/badge/Repositories-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reviews-000000?style=for-the-badge&logo=github&logoColor=white" />
+
 </div>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph.svg">
+  
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
-
-###
