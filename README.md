@@ -1,4 +1,4 @@
-<h1 align="center">About Us</h1>
+<h1 align="center">About Ali Automations</h1>
 
 <p align="center">
 We are a network of experienced developers and digital solution experts dedicated to helping businesses build powerful, scalable, and modern digital experiences.  
