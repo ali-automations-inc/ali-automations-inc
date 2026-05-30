@@ -2,9 +2,6 @@
 
 <p align="center">
 Building scalable digital products, intelligent business systems, and modern web experiences for ambitious brands and growing businesses.
-</p>
-
-<p align="center">
 We specialize in custom web development, AI-integrated platforms, and high-performance applications engineered to strengthen digital presence, improve operational efficiency, and support long-term growth.
 </p>
 
