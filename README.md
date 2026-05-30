@@ -1,8 +1,8 @@
 <h1 align="center">About Us</h1>
 
 <p align="center">
-We are a network of experienced professionals helping businesses streamline operations, save time, and scale efficiently through intelligent automation solutions.  
-From custom web development to AI-powered workflow automation, we build digital systems that enhance productivity, strengthen online presence, and drive business growth.  
+We are a network of experienced developers and digital solution experts dedicated to helping businesses build powerful, scalable, and modern digital experiences.  
+From custom websites and web applications to AI-integrated platforms and business systems, we create high-performance solutions that strengthen digital presence, improve user experience, and support long-term growth.
 </p>
 
 ###
