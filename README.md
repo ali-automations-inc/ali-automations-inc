@@ -146,11 +146,11 @@ React • Django REST Framework • AI Chat Integration • PostgreSQL
 Premium vehicle rental and fleet management platform designed for booking operations, inventory handling, and customer management.
 </p>
 
-<img src="./assets/admin.png" width="900" alt="GearUp Dashboard"/>
+<img src="./assets/signup.png" width="900" alt="GearUp Authentication"/>
 
 <br><br>
 
-<img src="./assets/signup.png" width="900" alt="GearUp Authentication"/>
+<img src="./assets/admin.png" width="900" alt="GearUp Dashboard"/>
 
 <br><br>
 
