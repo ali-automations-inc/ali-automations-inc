@@ -1,8 +1,11 @@
 <h1 align="center">Ali Automations</h1>
 
 <p align="center">
-Building scalable digital products, intelligent business systems, and modern web experiences for ambitious brands and growing businesses.
-We specialize in custom web development, AI-integrated platforms, and high-performance applications engineered to strengthen digital presence, improve operational efficiency, and support long-term growth.
+Building scalable digital products, AI-powered platforms, and high-performance business systems for modern brands and growing companies.
+</p>
+
+<p align="center">
+We specialize in custom web development, intelligent software architecture, and AI-integrated applications engineered to enhance operational efficiency, strengthen digital presence, and deliver long-term business value.
 </p>
 
 ---
@@ -30,68 +33,29 @@ We specialize in custom web development, AI-integrated platforms, and high-perfo
   <img src="https://skillicons.dev/icons?i=aws" height="52" alt="AWS" />
   <img width="18" />
 
-  <img src="https://skillicons.dev/icons?i=mongodb" height="52" alt="MongoDB" />
-  <img width="18" />
-
   <img src="https://skillicons.dev/icons?i=tensorflow" height="52" alt="TensorFlow" />
 
 </div>
 
 ---
 
-<div align="center">
+<h2 align="center">Services</h2>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-automations-inc&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" height="170" />
-
-</div>
-
----
-
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/ali-automations-inc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
-  </a>
-
-  <a href="mailto:aliautomations.inc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
-  </a>
-
-  <a href="https://www.instagram.com/aliautomations.inc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" height="36" />
-  </a>
-
-</div>
+<p align="center">
+AI Systems • Custom Web Development • SaaS Platforms • Workflow Automation • API Engineering • Dashboard Architecture
+</p>
 
 ---
 
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ali-automations-inc&theme=github_dark" />
-
-</div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph-dark.svg">
-
-  <img alt="Pacman contribution graph"
-       src="https://raw.githubusercontent.com/ali-automations-inc/ali-automations-inc/pacman-output/pacman-contribution-graph-dark.svg">
-
-</picture>
-
-<h2 align="center">Featured Projects</h2>
-
-<br>
-
+<h2 align="center">Selected Work</h2>
 
 <div align="center">
 
-<h3>DermaSol AI Powered Dermatological Assistance</h3>
+<h3>DermaSol — AI Dermatology Intelligence Platform</h3>
 
 <p>
-AI-powered dermatology intelligence platform designed for preliminary skin analysis, personalized insights, and modern healthcare experiences.
+Healthcare-focused AI platform designed to streamline preliminary dermatological assessment and personalized user guidance.  
+Built with a modern scalable architecture to deliver intelligent analysis, seamless user experiences, and accessible digital healthcare interactions.
 </p>
 
 <img src="./assets/landing_page.png" width="900" alt="DermaSol Landing Page"/>
@@ -114,10 +78,10 @@ Python • FastAPI • React • PostgreSQL • Computer Vision • Medical AI
 
 <div align="center">
 
-<h3>BELLE An Intelligent Blogging Platform</h3>
+<h3>BELLE — AI-Enhanced Blogging Ecosystem</h3>
 
 <p>
-Modern AI-enhanced blogging ecosystem focused on beauty, lifestyle, and intelligent content assistance with interactive AI-powered experiences.
+Modern content publishing platform integrating AI-assisted blogging, intelligent content interaction, and scalable user-focused experiences for digital media and lifestyle brands.
 </p>
 
 <img src="./assets/belle-home.png" width="900" alt="Belle AI Homepage"/>
@@ -129,7 +93,7 @@ Modern AI-enhanced blogging ecosystem focused on beauty, lifestyle, and intellig
 <br><br>
 
 <p>
-React • Django REST Framework • AI Chat Integration • PostgreSQL
+React • Django REST Framework • AI Integration • PostgreSQL
 </p>
 
 </div>
@@ -140,10 +104,10 @@ React • Django REST Framework • AI Chat Integration • PostgreSQL
 
 <div align="center">
 
-<h3>GearUp Digital Car Rental System</h3>
+<h3>GearUp — Vehicle Rental Management System</h3>
 
 <p>
-Premium vehicle rental and fleet management platform designed for booking operations, inventory handling, and customer management.
+Enterprise-style vehicle rental and fleet management platform designed for booking operations, inventory handling, authentication systems, and administrative workflow management.
 </p>
 
 <img src="./assets/signup.png" width="900" alt="GearUp Authentication"/>
@@ -155,7 +119,39 @@ Premium vehicle rental and fleet management platform designed for booking operat
 <br><br>
 
 <p>
-.NET • MVC Core • MySQL • Authentication • Role based Access • Dashboard Systems
+.NET • MVC Core • MySQL • Role-Based Access • Administrative Systems
 </p>
 
+</div>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ali-automations-inc" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/>
+</a>
+
+<a href="mailto:aliautomations.inc@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" height="44"/>
+</a>
+
+<a href="https://www.instagram.com/aliautomations.inc/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" height="44"/>
+</a>
+
+</div>
+
+<br>
+<div align="center">
+
+---
+
+<h2 align="center">Ali Automations</h2>
+
+<p align="center">
+Building systems that make growth feel effortless.
+</p>
 </div>
