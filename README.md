@@ -1,11 +1,7 @@
 <h1 align="center">Ali Automations</h1>
 
 <p align="center">
-Building scalable digital products, AI-powered platforms, and high-performance business systems for modern brands and growing companies.
-</p>
-
-<p align="center">
-We specialize in custom web development, intelligent software architecture, and AI-integrated applications engineered to enhance operational efficiency, strengthen digital presence, and deliver long-term business value.
+Ali Automations is a modern engineering studio focused on crafting refined digital experiences for businesses that value quality, performance, and long-term growth.
 </p>
 
 ---
