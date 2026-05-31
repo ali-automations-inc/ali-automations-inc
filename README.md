@@ -140,14 +140,10 @@ Enterprise-style vehicle rental and fleet management platform designed for booki
 
 </div>
 
-<br>
 <div align="center">
 
 ---
 
-<h2 align="center">Ali Automations</h2>
+<p align="center">Ali Automations — Engineering Excellence</p>
 
-<p align="center">
-Building systems that make growth feel effortless.
-</p>
 </div>
